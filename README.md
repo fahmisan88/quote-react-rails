@@ -1,24 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a simple React + Rails web application that list out famous quotes.
 
-Things you may want to cover:
+Requirement:
 
-* Ruby version
+* Ruby 2.4.1
 
-* System dependencies
+* Rails 5.1.5 + webpacker
 
-* Configuration
+* Postgresql 10.2
 
-* Database creation
+* No test yet
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+See the app on Heroku [here](https://thekatakata.herokuapp.com/)
